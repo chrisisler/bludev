@@ -1,4 +1,4 @@
-# rust bluetooth devices
+# bludev
 
 A keyboard-only interface for MacOS bluetooth device control.
 

@@ -1,7 +1,10 @@
 [package]
-name = "rust-bluetooth-devices"
+name = "bludev"
 version = "0.1.0"
 edition = "2021"
+authors = ["Chris I"]
+description = "A keyboard-only interface for MacOS bluetooth device control."
+repository = "https://github.com/chrisisler/bludev"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
